@@ -35,12 +35,12 @@ The boundary conditions included:
 
 Pin joints constrained for rotational freedom at the Piston End (Small End) and the Crank End (Big End).
 
-
-File Name,Description
-connecting rod simulation.pptx,"Primary Report/Presentation. Contains detailed slides of the simulation setup, mesh quality, resulting stress/strain contour plots, convergence checks, and final conclusions."
-stress vs strain surve of carbon aisi1045.xlsx - Sheet1.csv,"Material Data. CSV/Spreadsheet containing the input material properties (e.g., Yield Strength, Ultimate Tensile Strength, Modulus of Elasticity) used for the FEA calculation."
-connecting rod cad design.jpg,Design Visual. Image file of the 3D Computer-Aided Design (CAD) model used for the simulation geometry.
-README.md,The current document.
-[Software Files],"Placeholder for native FEA files (e.g., ANSYS workbench files, mesh files, etc.)."
+📂 3. Repository Structure
+File Name	Description
+connecting rod simulation.pptx	Primary Report/Presentation. Contains detailed slides of the simulation setup, mesh quality, resulting stress/strain contour plots, convergence checks, and final conclusions.
+stress vs strain surve of carbon aisi1045.xlsx - Sheet1.csv	Material Data. CSV/Spreadsheet containing the input material properties (e.g., Yield Strength, Ultimate Tensile Strength, Modulus of Elasticity) used for the FEA calculation.
+connecting rod cad design.jpg	Design Visual. Image file of the 3D Computer-Aided Design (CAD) model used for the simulation geometry.
+README.md	The current document.
+[Software Files]	Placeholder for native FEA files (e.g., ANSYS workbench files, mesh files, etc.).
 
 
